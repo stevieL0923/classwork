@@ -2,6 +2,8 @@ package exceptions;
 
 public class DataBaseDeleteException extends Exception {
 
+	private static final long serialVersionUID = 1L;
+
 	public DataBaseDeleteException() {
 		super();
 	}

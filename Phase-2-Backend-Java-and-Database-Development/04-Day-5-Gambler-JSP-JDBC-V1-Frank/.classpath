@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<classpath>
+<<<<<<< HEAD:Phase-2-Backend-Java-and-Database-Development/.classpath
+
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+
+	<classpathentry kind="src" path="src/main/java"/>
+
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v10.1">
+
+		<attributes>
+
+			<attribute name="owner.project.facets" value="jst.web"/>
+
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+>>>>>>> 0bfecc13c833d955d84520e3329c8ae9d38ba459:Phase-2-Backend-Java-and-Database-Development/04-Day-5-Gambler-JSP-JDBC-V1-Frank/.classpath
+		</attributes>
+
+	</classpathentry>
+<<<<<<< HEAD:Phase-2-Backend-Java-and-Database-Development/.classpath
+
+=======
+	<classpathentry kind="src" path="src/main/java"/>
+>>>>>>> 0bfecc13c833d955d84520e3329c8ae9d38ba459:Phase-2-Backend-Java-and-Database-Development/04-Day-5-Gambler-JSP-JDBC-V1-Frank/.classpath
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD:Phase-2-Backend-Java-and-Database-Development/.classpath
+
+=======
+	<classpathentry kind="lib" path="/home/frankfellasimpl/apache-tomcat-10.0.27/lib/servlet-api.jar">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+>>>>>>> 0bfecc13c833d955d84520e3329c8ae9d38ba459:Phase-2-Backend-Java-and-Database-Development/04-Day-5-Gambler-JSP-JDBC-V1-Frank/.classpath
+	<classpathentry kind="output" path="build/classes"/>
+
+</classpath>
